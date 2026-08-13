@@ -56,7 +56,7 @@
       "title": "UIT-fb1",
       "description": "UIT- TƯ VẤN TUYỂN SINH 2026 ( ĐẠI HỌC CÔNG NGHỆ THÔNG TIN HCM)",
       "category": "Cộng đồng",
-      "host": "https://www.facebook.com/groups/1490552952780222",
+      "host": "facebook",
       "url": "https://www.facebook.com/groups/1490552952780222",
       "image": "img/uit_fb1.png",
       "tags": [
@@ -70,7 +70,7 @@
         "title": "UIT-fb2",
         "description": "Tư vấn Tuyển sinh UIT - Trường Đại học Công nghệ Thông tin, ĐHQG-HCM",
         "category": "Cộng đồng",
-        "host": "https://www.facebook.com/groups/tvtsuit",
+        "host": "facebook",
         "url": "https://www.facebook.com/groups/tvtsuit",
         "image": "img/uit_fb2.png",
         "tags": [
@@ -84,7 +84,7 @@
         "title": "UIT-fb3",
         "description": "UIT Khóa 2026 (K21)",
         "category": "Cộng đồng",
-        "host": "https://www.facebook.com/groups/k2026.uit",
+        "host": "facebook",
         "url": "https://www.facebook.com/groups/k2026.uit",
         "image": "img/uit_fb3.png",
         "tags": [
@@ -112,7 +112,7 @@
         "title": "GR mess trao đổi thông tin tổng",
         "description": "GR mess trao đổi thông tin tổng",
         "category": "Cộng đồng",
-        "host": "https://m.me/ch/AbaoMwZaffxLimsT/?send_source=cm:qr_code_scan",
+        "host": "messenger",
         "url": "https://m.me/ch/AbaoMwZaffxLimsT/?send_source=cm:qr_code_scan",
         "image": "img/uit_messenger1.png",
         "tags": [
