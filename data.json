@@ -1,0 +1,127 @@
+{
+  "intro": {
+    "logo": "img/logo.png",
+    "leftImage": "img/logo.png",
+    "rightImage": "img/logo2.png"
+  },
+  "websites": [
+    {
+      "id": "uit-home",
+      "title": "UIT — Trang chủ",
+      "description": "Tin tức, sự kiện, thông tin tổng quan và các liên kết chính thức của trường.",
+      "category": "Chính thức",
+      "host": "uit.edu.vn",
+      "url": "https://www.uit.edu.vn/",
+      "image": "img/uit_home.png",
+      "tags": [
+        "trường",
+        "tin tức",
+        "official"
+      ]
+    },
+    {
+      "id": "uit-portal",
+      "title": "Portal UIT",
+      "description": "Portal sinh viên",
+      "category": "cá nhân",
+      "host": "portal.uit.edu.vn",
+      "url": "https://portal.uit.edu.vn/",
+      "image": "img/uit_portal.png",
+      "tags": [
+        "portal",
+        "sinh viên",
+        "SSO"
+      ]
+    },
+
+
+
+
+    {
+      "id": "uit-forum",
+      "title": "Forum UIT",
+      "description": "Diễn đàn cộng đồng để trao đổi, hỏi đáp và chia sẻ thông tin liên quan đến UIT.",
+      "category": "Cộng đồng",
+      "host": "forum.uit.edu.vn",
+      "url": "https://forum.uit.edu.vn/",
+      "image": "https://www.google.com/s2/favicons?domain=forum.uit.edu.vn&sz=128",
+      "tags": [
+        "forum",
+        "hỏi đáp",
+        "cộng đồng"
+      ]
+    },
+    {
+      "id": "uit-facebook-1",
+      "title": "UIT-fb1",
+      "description": "UIT- TƯ VẤN TUYỂN SINH 2026 ( ĐẠI HỌC CÔNG NGHỆ THÔNG TIN HCM)",
+      "category": "Cộng đồng",
+      "host": "https://www.facebook.com/groups/1490552952780222",
+      "url": "https://www.facebook.com/groups/1490552952780222",
+      "image": "img/uit_fb1.png",
+      "tags": [
+        "Facebook",
+        "group",
+        "sinh viên"
+      ]
+    },
+    {
+        "id": "uit-facebook-2",
+        "title": "UIT-fb2",
+        "description": "Tư vấn Tuyển sinh UIT - Trường Đại học Công nghệ Thông tin, ĐHQG-HCM",
+        "category": "Cộng đồng",
+        "host": "https://www.facebook.com/groups/tvtsuit",
+        "url": "https://www.facebook.com/groups/tvtsuit",
+        "image": "img/uit_fb2.png",
+        "tags": [
+          "Facebook",
+          "group",
+          "sinh viên"
+        ]
+      },
+      {
+        "id": "uit-facebook-3",
+        "title": "UIT-fb3",
+        "description": "UIT Khóa 2026 (K21)",
+        "category": "Cộng đồng",
+        "host": "https://www.facebook.com/groups/k2026.uit",
+        "url": "https://www.facebook.com/groups/k2026.uit",
+        "image": "img/uit_fb3.png",
+        "tags": [
+          "Facebook",
+          "group",
+          "sinh viên"
+        ]
+      },
+    {
+      "id": "uit-facebook-fanpage",
+      "title": "Fanpage UIT",
+      "description": "Kênh Facebook chính thức để theo dõi tin tức, hoạt động và thông báo nổi bật.",
+      "category": "Chính thức",
+      "host": "facebook.com/UIT.Fanpage",
+      "url": "https://www.facebook.com/UIT.Fanpage/",
+      "image": "img/uit_fanpage.png",
+      "tags": [
+        "Facebook",
+        "fanpage",
+        "official"
+      ]
+    },
+    {
+        "id": "uit-messenger1",
+        "title": "GR mess trao đổi thông tin tổng",
+        "description": "GR mess trao đổi thông tin tổng",
+        "category": "Cộng đồng",
+        "host": "https://m.me/ch/AbaoMwZaffxLimsT/?send_source=cm:qr_code_scan",
+        "url": "https://m.me/ch/AbaoMwZaffxLimsT/?send_source=cm:qr_code_scan",
+        "image": "img/uit_messenger1.png",
+        "tags": [
+          "Messenger",
+          "group",
+          "sinh viên"
+        ]
+      }
+
+
+  ]
+}
