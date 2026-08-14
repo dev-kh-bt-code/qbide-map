@@ -14,6 +14,8 @@
       "url": "https://www.uit.edu.vn/",
       "image": "img/uit_home.png",
       "tags": [
+        "học",
+        "web",
         "trường",
         "tin tức",
         "official"
@@ -28,13 +30,27 @@
       "url": "https://portal.uit.edu.vn/",
       "image": "img/uit_portal.png",
       "tags": [
+        "học",
+        "web",
         "portal",
         "sinh viên",
         "SSO"
       ]
     },
-
-
+    {
+      "id": "uit-ISE",
+      "title": "Web khoa ISE",
+      "description": "Web khoa ISE",
+      "category": "Web",
+      "host": "fit.uit.edu.vn",
+      "url": "https://fit.uit.edu.vn/",
+      "image": "img/uit_ise.png",
+      "tags": [
+        "học",
+        "web",
+        "sinh viên"
+      ]
+    },
 
 
     {
@@ -46,20 +62,22 @@
       "url": "https://forum.uit.edu.vn/",
       "image": "https://www.google.com/s2/favicons?domain=forum.uit.edu.vn&sz=128",
       "tags": [
-        "forum",
+        "học",
+        "web",
         "hỏi đáp",
         "cộng đồng"
       ]
     },
     {
       "id": "uit-facebook-1",
-      "title": "UIT-fb1",
+      "title": "UIT-fb-Tư vấn tuyển sinh 1",
       "description": "UIT- TƯ VẤN TUYỂN SINH 2026 ( ĐẠI HỌC CÔNG NGHỆ THÔNG TIN HCM)",
       "category": "Cộng đồng",
       "host": "facebook",
       "url": "https://www.facebook.com/groups/1490552952780222",
       "image": "img/uit_fb1.png",
       "tags": [
+        "học",
         "Facebook",
         "group",
         "sinh viên"
@@ -67,13 +85,14 @@
     },
     {
         "id": "uit-facebook-2",
-        "title": "UIT-fb2",
+        "title": "UIT-fb-Tư vấn tuyển sinh 2",
         "description": "Tư vấn Tuyển sinh UIT - Trường Đại học Công nghệ Thông tin, ĐHQG-HCM",
         "category": "Cộng đồng",
         "host": "facebook",
         "url": "https://www.facebook.com/groups/tvtsuit",
         "image": "img/uit_fb2.png",
         "tags": [
+          "học",
           "Facebook",
           "group",
           "sinh viên"
@@ -81,13 +100,29 @@
       },
       {
         "id": "uit-facebook-3",
-        "title": "UIT-fb3",
+        "title": "UIT-fb-Gr 2026",
         "description": "UIT Khóa 2026 (K21)",
         "category": "Cộng đồng",
         "host": "facebook",
         "url": "https://www.facebook.com/groups/k2026.uit",
         "image": "img/uit_fb3.png",
         "tags": [
+          "học",
+          "Facebook",
+          "group",
+          "sinh viên"
+        ]
+      },
+      {
+        "id": "uit-facebook-4",
+        "title": "UIT-fb-khoa ISE",
+        "description": "Khoa Khoa học và Kỹ thuật Thông tin - UIT",
+        "category": "Cộng đồng",
+        "host": "facebook",
+        "url": "https://www.facebook.com/UIT.ISE/",
+        "image": "img/uit_fb4.png",
+        "tags": [
+          "học",
           "Facebook",
           "group",
           "sinh viên"
@@ -102,6 +137,7 @@
       "url": "https://www.facebook.com/UIT.Fanpage/",
       "image": "img/uit_fanpage.png",
       "tags": [
+        "học",
         "Facebook",
         "fanpage",
         "official"
@@ -116,6 +152,22 @@
         "url": "https://m.me/ch/AbaoMwZaffxLimsT/?send_source=cm:qr_code_scan",
         "image": "img/uit_messenger1.png",
         "tags": [
+          "học",
+          "Messenger",
+          "group",
+          "sinh viên"
+        ]
+      },
+      {
+        "id": "uit-messenger2",
+        "title": "GR mess ISE",
+        "description": "GR mess ISE",
+        "category": "Cộng đồng",
+        "host": "messenger",
+        "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fbit.ly%2FGroupChatKHKTTT%3Ffbclid%3DIwcGRvZgFleHRuA2FlbQIxMABicmlkETFLQ2Rva29yNUZBbHFSa2dac3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHk2RwIRGdeuIbQlzwp1sU_LTS4U4Qc23pTHkIxvTw6ZuvgycC5MaESCghJN0_aem_smskOj6SWKVuWtgCcElCPQ&h=AUCQ5Gk53sK8XxC1f-UfaXcldvWd7BWstqXc1pO0kKJ8eh5LETFzDpxEvuY9gUg6VyWbkwgZTRyldn8mhIkGzNHEus__cZs8s9_AAFuRZxo3MKd4O2nxvrioeD9bufzNIE2nYIq8pHZLLJ1PKxVcGV8IBgaw4X2U&__tn__=-UK-R&c[0]=AUASyxC7Bw0mkT_OylcW5_jH85nR8kXpsjf_gjhnbyv_9KQxjPSV1nanMkrMBPYhIZgWWI7c9wjP2sXEwWoxCJVdFgST8zwizBf2ckJR8lp_tirFEZNolf7JtjcWd-Nb7sJq0rmEOjtoCehn6GjbAQGP0nYNvh5Jr4Lu2IjeffP-hzUJwTNXb1BSFavK92sLYXYz5cai1p6Obir3GX2vcSS_ajhRqj8",
+        "image": "img/uit_messenger2.png",
+        "tags": [
+          "học",
           "Messenger",
           "group",
           "sinh viên"
