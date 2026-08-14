@@ -359,10 +359,17 @@
       renderQuick();
     }
 
-    function getCategories(){
-      const categories = [...new Set(state.data.websites.map(x => x.category).filter(Boolean))];
-      return ["Tất cả", ...categories];
-    }
+    function getCategories() {
+  const categories = [
+    ...new Set(
+      state.data.websites
+        .flatMap(x => x.tags || [])
+        .filter(Boolean)
+    )
+  ];
+
+  return ["Tất cả", ...categories];
+}
 
     function renderCategories(){
       const wrap = $("#categories");
@@ -377,15 +384,24 @@
       });
     }
 
-    function filteredSites(){
-      const q = state.query.trim().toLowerCase();
-      return state.data.websites.filter(site => {
-        const categoryOK = state.category === "Tất cả" || site.category === state.category;
-        const haystack = [site.title, site.description, site.category, site.host, ...(site.tags || [])].join(" ").toLowerCase();
-        return categoryOK && (!q || haystack.includes(q));
-      });
-    }
+    function filteredSites() {
+  const q = state.query.trim().toLowerCase();
 
+  return state.data.websites.filter(site => {
+    const tagOK =
+      state.category === "Tất cả" ||
+      (site.tags || []).includes(state.category);
+
+    const haystack = [
+      site.title,
+      site.description,
+      site.host,
+      ...(site.tags || [])
+    ].join(" ").toLowerCase();
+
+    return tagOK && (!q || haystack.includes(q));
+  });
+}
     function render(){
       if(!state.data) return;
       renderCategories();

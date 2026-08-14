@@ -16,9 +16,23 @@
       "tags": [
         "học",
         "web",
-        "trường",
-        "tin tức",
-        "official"
+        "cộng đồng",
+        "trường"
+      ]
+    },
+    {
+      "id": "uit-facebook-fanpage",
+      "title": "Fanpage UIT",
+      "description": "Kênh Facebook chính thức để theo dõi tin tức, hoạt động và thông báo nổi bật.",
+      "category": "Chính thức",
+      "host": "facebook.com/UIT.Fanpage",
+      "url": "https://www.facebook.com/UIT.Fanpage/",
+      "image": "img/uit_fanpage.png",
+      "tags": [
+        "học",
+        "Facebook",
+        "fanpage",
+        "trường"
       ]
     },
     {
@@ -33,8 +47,8 @@
         "học",
         "web",
         "portal",
-        "sinh viên",
-        "SSO"
+        "cá nhân",
+        "sinh viên"
       ]
     },
     {
@@ -48,26 +62,30 @@
       "tags": [
         "học",
         "web",
-        "sinh viên"
+        "trường",
+        "cộng đồng",
+        "khoa"
       ]
     },
-
-
     {
-      "id": "uit-forum",
-      "title": "Forum UIT",
-      "description": "Diễn đàn cộng đồng để trao đổi, hỏi đáp và chia sẻ thông tin liên quan đến UIT.",
+      "id": "uit-facebook-3",
+      "title": "UIT-fb-Gr 2026",
+      "description": "UIT Khóa 2026 (K21)",
       "category": "Cộng đồng",
-      "host": "forum.uit.edu.vn",
-      "url": "https://forum.uit.edu.vn/",
-      "image": "https://www.google.com/s2/favicons?domain=forum.uit.edu.vn&sz=128",
+      "host": "facebook",
+      "url": "https://www.facebook.com/groups/k2026.uit",
+      "image": "img/uit_fb3.png",
       "tags": [
         "học",
-        "web",
-        "hỏi đáp",
-        "cộng đồng"
+        "Facebook",
+        "cộng đồng",
+        "trường"
       ]
     },
+    
+
+
+    
     {
       "id": "uit-facebook-1",
       "title": "UIT-fb-Tư vấn tuyển sinh 1",
@@ -79,8 +97,8 @@
       "tags": [
         "học",
         "Facebook",
-        "group",
-        "sinh viên"
+        "cộng đồng",
+        "trường"
       ]
     },
     {
@@ -94,25 +112,11 @@
         "tags": [
           "học",
           "Facebook",
-          "group",
-          "sinh viên"
+          "cộng đồng",
+          "trường"
         ]
       },
-      {
-        "id": "uit-facebook-3",
-        "title": "UIT-fb-Gr 2026",
-        "description": "UIT Khóa 2026 (K21)",
-        "category": "Cộng đồng",
-        "host": "facebook",
-        "url": "https://www.facebook.com/groups/k2026.uit",
-        "image": "img/uit_fb3.png",
-        "tags": [
-          "học",
-          "Facebook",
-          "group",
-          "sinh viên"
-        ]
-      },
+     
       {
         "id": "uit-facebook-4",
         "title": "UIT-fb-khoa ISE",
@@ -124,25 +128,12 @@
         "tags": [
           "học",
           "Facebook",
-          "group",
-          "sinh viên"
+          "cộng đồng",
+          "khoa",
+          "trường"
         ]
       },
-    {
-      "id": "uit-facebook-fanpage",
-      "title": "Fanpage UIT",
-      "description": "Kênh Facebook chính thức để theo dõi tin tức, hoạt động và thông báo nổi bật.",
-      "category": "Chính thức",
-      "host": "facebook.com/UIT.Fanpage",
-      "url": "https://www.facebook.com/UIT.Fanpage/",
-      "image": "img/uit_fanpage.png",
-      "tags": [
-        "học",
-        "Facebook",
-        "fanpage",
-        "official"
-      ]
-    },
+    
     {
         "id": "uit-messenger1",
         "title": "GR mess trao đổi thông tin tổng",
@@ -154,8 +145,8 @@
         "tags": [
           "học",
           "Messenger",
-          "group",
-          "sinh viên"
+          "cộng đồng",
+          "trường"
         ]
       },
       {
@@ -169,8 +160,86 @@
         "tags": [
           "học",
           "Messenger",
-          "group",
-          "sinh viên"
+          "cộng đồng",
+          "khoa",
+          "trường"
+        ]
+      },
+      {
+        "id": "uit-ktx-1",
+        "title": "UIT — KTX - Thông tin",
+        "description": "Thông tin ktx",
+        "category": "web",
+        "host": "ktxhcm.edu.vn",
+        "url": "https://www.ktxhcm.edu.vn/",
+        "image": "img/uit_ktx1.png",
+        "tags": [
+          "học",
+          "web",
+          "trường",
+          "ktx"
+        ]
+      },
+      {
+        "id": "uit-ktx-2",
+        "title": "UIT — KTX - Sinh viên",
+        "description": "Thông tin sinh viên ktx",
+        "category": "web",
+        "host": "sv.ktxhcm.edu.vn",
+        "url": "https://sv.ktxhcm.edu.vn/Default/StudentInfoDetails",
+        "image": "img/uit_ktx2.png",
+        "tags": [
+          "học",
+          "web",
+          "sinh viên",
+          "cá nhân",
+          "ktx"
+        ]
+      },
+      {
+        "id": "uit-ktx-3",
+        "title": "UIT — KTX - FB",
+        "description": "FB ktx",
+        "category": "FB",
+        "host": " facebook.com/ttqlktx.kdt",
+        "url": "https://www.facebook.com/ttqlktx.kdt/",
+        "image": "img/uit_ktx3.png",
+        "tags": [
+          "học",
+          "Facebook",
+          "trường",
+          "fanpage",
+          "ktx"
+        ]
+      },
+      {
+        "id": "uit-ktx-4",
+        "title": "UIT — KTX - dki hoạt động",
+        "description": "DKI hoạt động ktx",
+        "category": "web",
+        "host": "hoatdong.ktxhcm.edu.vn",
+        "url": "https://hoatdong.ktxhcm.edu.vn/dang-ky-hoat-dong-tai-ktx",
+        "image": "img/uit_ktx4.png",
+        "tags": [
+          "học",
+          "web",
+          "trường",
+          "ktx"
+        ]
+      },
+      {
+        "id": "uit-forum",
+        "title": "Forum UIT",
+        "description": "Diễn đàn cộng đồng để trao đổi, hỏi đáp và chia sẻ thông tin liên quan đến UIT.",
+        "category": "Cộng đồng",
+        "host": "forum.uit.edu.vn",
+        "url": "https://forum.uit.edu.vn/",
+        "image": "https://www.google.com/s2/favicons?domain=forum.uit.edu.vn&sz=128",
+        "tags": [
+          "học",
+          "web",
+          "trường",
+          "cộng đồng"
         ]
       }
 
