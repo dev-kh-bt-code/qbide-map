@@ -255,6 +255,21 @@
           "web",
           "Tiếng anh"
         ]
+      },
+      {
+        "id": "toeic",
+        "title": "Đậu toeic",
+        "description": "Tiếng anh đầu vào, toeic",
+        "category": "Tiếng anh",
+        "host": "dautoeic.com",
+        "url": "https://dautoeic.com/",
+        "image": "img/toeic.png",
+        "tags": [
+          "học",
+          "web",
+          "Tiếng anh",
+          "toeic"
+        ]
       }
 
 
