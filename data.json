@@ -270,6 +270,21 @@
           "Tiếng anh",
           "toeic"
         ]
+      },
+      {
+        "id": "elllo",
+        "title": "Elllo",
+        "description": "Nghe tiếng anh theo cấp độ",
+        "category": "Tiếng anh",
+        "host": "elllo.org",
+        "url": "https://www.elllo.org/#google_vignette",
+        "image": "img/elllo.png",
+        "tags": [
+          "học",
+          "web",
+          "Tiếng anh",
+          "toeic"
+        ]
       }
 
 
