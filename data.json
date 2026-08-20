@@ -52,6 +52,38 @@
       ]
     },
     {
+      "id": "roachup",
+      "title": "Roachup",
+      "description": "Roachup",
+      "category": "Project",
+      "host": "qbide.itch.io/roachup",
+      "url": "https://qbide.itch.io/roachup",
+      "image": "img/roachup.png",
+      "tags": [
+        "project",
+        "có lợi nhuận",
+        "web",
+        "game",
+        "cá nhân",
+        "roachup"
+      ]
+    },
+    {
+      "id": "sothuchi",
+      "title": "Sổ thu chi",
+      "description": "Sổ thu chi cá nhân",
+      "category": "Project",
+      "host": "Sothuchi",
+      "url": "https://dev-kh-bt-code.github.io/Sothuchi/",
+      "image": "img/sothuchi.png",
+      "tags": [
+        "project",
+        "phi lợi nhuận",
+        "web",
+        "cá nhân"
+      ]
+    },
+    {
       "id": "uit-ISE",
       "title": "Web khoa ISE",
       "description": "Web khoa ISE",
