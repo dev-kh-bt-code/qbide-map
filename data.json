@@ -52,6 +52,20 @@
       ]
     },
     {
+      "id": "uit-profile",
+      "title": "Qbide profile",
+      "description": "Profile qbide",
+      "category": "cá nhân",
+      "host": "qbide.github.io/Qbide-inf",
+      "url": "https://qbide.github.io/Qbide-inf/",
+      "image": "img/qbideprofile.png",
+      "tags": [
+        "web",
+        "profile",
+        "cá nhân"
+      ]
+    },
+    {
       "id": "roachup",
       "title": "Roachup",
       "description": "Roachup",
