@@ -52,6 +52,20 @@
       ]
     },
     {
+      "id": "ggcalendar",
+      "title": "GG CALENDAR",
+      "description": "Lịch trình",
+      "category": "cá nhân",
+      "host": "calendar.google.com",
+      "url": "https://calendar.google.com/calendar/u/0/r",
+      "image": "img/ggcalendar.png",
+      "tags": [
+        "web",
+        "cá nhân",
+        "lịch trình"
+      ]
+    },
+    {
       "id": "uit-profile",
       "title": "Qbide profile",
       "description": "Profile qbide",
