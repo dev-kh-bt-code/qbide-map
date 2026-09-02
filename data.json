@@ -193,6 +193,21 @@
           "trường"
         ]
       },
+      {
+        "id": "uit-facebook-5",
+        "title": "Cộng đồng UIT",
+        "description": "Cộng đồng UIT (Đăng bài linh tinh)",
+        "category": "Cộng đồng",
+        "host": "facebook",
+        "url": "https://www.facebook.com/groups/congdongsvuit",
+        "image": "img/uit_fb5.png",
+        "tags": [
+          "học",
+          "Facebook",
+          "cộng đồng",
+          "trường"
+        ]
+      },
     
     {
         "id": "uit-messenger1",
@@ -207,6 +222,34 @@
           "Messenger",
           "cộng đồng",
           "trường"
+        ]
+      },
+      {
+        "id": "ktx",
+        "title": "Hội những người ở KTX khu B",
+        "description": "GR ktx (đặt đồ ăn)",
+        "category": "Cộng đồng",
+        "host": "facebook",
+        "url": "https://www.facebook.com/groups/hoiktxkhub",
+        "image": "img/ktx.png",
+        "tags": [
+ 
+          "Facebook",
+          "cộng đồng"
+        ]
+      },
+      {
+        "id": "ktx2",
+        "title": "Cộng đồng sinh viên ktx khu b",
+        "description": "GR ktx (hỏi)",
+        "category": "Cộng đồng",
+        "host": "facebook",
+        "url": "https://www.facebook.com/groups/congdongsinhvien.ktxdhqg",
+        "image": "img/ktx2.png",
+        "tags": [
+
+          "Facebook",
+          "cộng đồng"
         ]
       },
       {
@@ -358,7 +401,34 @@
           "học",
           "web"
         ]
-      }
+      },
+      {
+        "id": "ute-fb",
+        "title": "UTE fanpage",
+        "description": "UTE fanpage",
+        "category": "FB",
+        "host": "facebook",
+        "url": "https://www.facebook.com/hcmute.edu.vn",
+        "image": "img/ute_fb.png",
+        "tags": [
+          "học",
+          "web",
+          "ute"
+        ]
+      },{
+        "id": "ute-fb2",
+        "title": "UTE fb gr",
+        "description": "UTE fb gr",
+        "category": "FB",
+        "host": "facebook",
+        "url": "https://www.facebook.com/groups/2136055613609201",
+        "image": "img/ute_fb2.png",
+        "tags": [
+          "học",
+          "web",
+          "ute"
+        ]
+      },
 
 
   ]
