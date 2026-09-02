@@ -345,6 +345,19 @@
           "Tiếng anh",
           "toeic"
         ]
+      },
+      {
+        "id": "tvtt",
+        "title": "Thư viện trung tâm",
+        "description": "Thư viện trung tâm",
+        "category": "Web",
+        "host": "vnulib.edu.vn",
+        "url": "https://www.vnulib.edu.vn/",
+        "image": "img/tvtt.png",
+        "tags": [
+          "học",
+          "web"
+        ]
       }
 
 
