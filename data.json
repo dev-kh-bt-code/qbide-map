@@ -66,6 +66,21 @@
       ]
     },
     {
+      "id": "qbide-edu",
+      "title": "Qbide-edu",
+      "description": "qbide edu",
+      "category": "Web",
+      "host": "calendar.google",
+      "url": "https://spotted-metatarsal-d5f.notion.site/qbide-edu",
+      "image": "img/qbideedu.png",
+      "tags": [
+        "web",
+        "cá nhân",
+        "lịch trình",
+        "tài liệu"
+      ]
+    },
+    {
       "id": "uit-profile",
       "title": "Qbide profile",
       "description": "Profile qbide",
