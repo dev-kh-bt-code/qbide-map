@@ -52,6 +52,25 @@
       ]
     },
     {
+      "id": "uit-courses",
+      "title": "UIT COURSES",
+      "description": "UIT courses",
+      "category": "Học",
+      "host": "courses.uit.edu.vn/my/",
+      "url": "https://courses.uit.edu.vn/my/",
+      "image": "img/uitcourses.png",
+      "tags": [
+        "học",
+        "web",
+        "cá nhân",
+        "sinh viên",
+        "trường",
+        "tài liệu",
+        "thông báo",
+        "hỏi đáp"
+      ]
+    },
+    {
       "id": "ggcalendar",
       "title": "GG CALENDAR",
       "description": "Lịch trình",
