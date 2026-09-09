@@ -146,6 +146,22 @@
       ]
     },
     {
+      "id": "coursera",
+      "title": "Coursera",
+      "description": "Coursera",
+      "category": "Web",
+      "host": "coursera",
+      "url": "https://www.coursera.org/programs/nic-x-uit-zfn27",
+      "image": "img/coursera.png",
+      "tags": [
+        "học",
+        "web",
+        "tự học",
+        "google",
+        "chứng chỉ"
+      ]
+    },
+    {
       "id": "uit-ISE",
       "title": "Web khoa ISE",
       "description": "Web khoa ISE",
