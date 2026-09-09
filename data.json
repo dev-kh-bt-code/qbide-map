@@ -114,6 +114,20 @@
       ]
     },
     {
+      "id": "parroto",
+      "title": "PARROTO",
+      "description": "parroto",
+      "category": "web",
+      "host": "parroto ",
+      "url": "https://parroto.app/vi/topics",
+      "image": "img/parroto.png",
+      "tags": [
+        "web",
+        "Tiếng anh",
+        "tự học"
+      ]
+    },
+    {
       "id": "roachup",
       "title": "Roachup",
       "description": "Roachup",
