@@ -85,6 +85,20 @@
       ]
     },
     {
+      "id": "wecode",
+      "title": "WECODE",
+      "description": "wecode",
+      "category": "web",
+      "host": "khmt.uit.edu.vn",
+      "url": "https://khmt.uit.edu.vn/wecode25/it00x/home",
+      "image": "img/wecode.png",
+      "tags": [
+        "web",
+        "code",
+        "trường"
+      ]
+    },
+    {
       "id": "qbide-edu",
       "title": "Qbide-edu",
       "description": "qbide edu",
