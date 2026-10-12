@@ -142,6 +142,20 @@
       ]
     },
     {
+      "id": "speechtotext",
+      "title": "Speech to text",
+      "description": "Speech to text",
+      "category": "web",
+      "host": "soundwise.ai ",
+      "url": "https://soundwise.ai/audio-to-text",
+      "image": "img/speechtotext.png",
+      "tags": [
+        "web",
+        "tiện ích",
+        "tự học"
+      ]
+    },
+    {
       "id": "roachup",
       "title": "Roachup",
       "description": "Roachup",
